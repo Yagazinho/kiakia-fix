@@ -1,0 +1,177 @@
+.center-text {
+    text-align: center;
+}
+
+.justify-text {
+    text-align: justify;
+}
+
+.pad-xy-20 {
+    padding: 20px;
+}
+
+.pad-xy-40 {
+    padding: 40px;
+}
+
+.pad-x-20 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.pad-y-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pad-x-40 {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.pad-y-40 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.pad-x-60 {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.pad-y-60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
+
+.c-float {
+    clear: both;
+}
+
+.white-color {
+    color: white;
+}
+
+.red-color {
+    color: red;
+}
+
+.green-color {
+    color: green;
+}
+
+.aqua-color {
+    color: aqua;
+}
+
+.orangered-color {
+    color: orangered;
+}
+
+.khaki-color {
+    color: khaki;
+}
+
+.maroon-color {
+    color: maroon;
+}
+
+.red-bg {
+    background-color: red;
+}
+
+.green-bg {
+    background-color: green;
+}
+
+.aqua-bg {
+    background-color: aqua;
+}
+
+.orangered-bg {
+    background-color: orangered;
+}
+
+.khaki-bg {
+    background-color: khaki;
+}
+
+.maroon-bg {
+    background-color: maroon;
+}
+
+.mh-200 {
+    min-height: 200px !important;
+}
+
+.mh-400 {
+    min-height: 400px !important;
+}
+
+
+.mh-700 {
+    min-height: 700px !important;
+}
+
+.h-200 {
+    height: 200px !important;
+}
+
+.h-400 {
+    height: 400px !important;
+}
+
+.h-600 {
+    height: 600px !important;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+.w-75 {
+    width: 75% !important;
+}
+
+.w-50 {
+    width: 50% !important;
+}
+
+.w-25 {
+    width: 25% !important;
+}
+
+
+.parallax-1 {
+    background-image: url("../images/2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.parallax-2 {
+    background-image: url("../images/1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.parallax-3 {
+    background-image: url("../images/3.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 600px;
+    height: 200px;
+}

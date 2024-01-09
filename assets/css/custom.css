@@ -1,0 +1,92 @@
+.font-theme {
+    font-family: 'broadway', 'chiller', 'copperplate gothic';
+}
+
+.navbar-brand {
+    font-size: 3em;
+    font-family: 'chiller';
+}
+
+.rounded-xlg {
+    border-radius: 17px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.7em;
+    font-weight: bolder;
+    color: white !important;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 35px;
+}
+
+.section {
+    padding: 50px 0;
+}
+
+#mainslider .slider-img {
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.img-1 {
+    background-image: url('../media/images/1.jpg');
+}
+
+.img-2 {
+    background-image: url('../media/images/2.jpg');
+}
+
+.img-3 {
+    background-image: url('../media/images/3.jpg');
+}
+
+.carousel-caption {
+    bottom: 30%;
+    padding: 20px 60px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.carousel-caption h3,
+.carousel-caption p {
+    font-family: 'lucida handwriting';
+}
+
+.carousel-caption h3 {
+    font-size: 3.5rem;
+}
+
+.carousel-caption p {
+    font-size: 2rem;
+}
+
+.search-form input,
+.search-form button,
+.search-form select {
+    font-size: 2rem;
+}
+
+.service-bg {
+    height: 180px;
+}
+
+
+#providerSlider,
+#testimonialSlider {
+    min-height: 400px;
+}
+
+.fancy-indicators li {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.text-silver {
+    color: lightgrey;
+}

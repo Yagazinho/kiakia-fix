@@ -1,0 +1,45 @@
+.bg-dark {
+    background-color: black !important;
+}
+
+.text-theme {
+    color: black;
+}
+
+.navbar-nav .nav-link {
+    color: black !important;
+}
+
+.rounded-xlg {
+    border-radius: 15px;
+}
+
+.navbar-nav .nav-link {
+    color: black !important;
+}
+
+.bd-w-2 {
+    border-width: 2px !important;
+}
+
+.bd-w-4 {
+    border-width: 4px !important;
+}
+
+.bd-w-6 {
+    border-width: 6px !important;
+}
+
+.bd-w-8 {
+    border-width: 8px !important;
+}
+
+.nav-pills .active {
+    background-color: black !important;
+    color: white !important;
+}
+
+.nav-pills :hover {
+    background-color: black !important;
+    color: white !important;
+}

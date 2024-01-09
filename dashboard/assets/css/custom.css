@@ -1,0 +1,21 @@
+.text-theme {
+    color: black !important;
+}
+
+.bg-theme {
+    background-color: black !important;
+}
+
+
+.rounded-xlg {
+    border-radius: 15px;
+}
+
+.navbar-nav .nav-link {
+    color: black !important;
+}
+
+.form-user-image {
+    width: 100px !important;
+    height: 100px !important;
+}
